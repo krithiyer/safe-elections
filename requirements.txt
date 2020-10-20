@@ -1,0 +1,6 @@
+torch==1.6
+transformers==3.3.1
+pandas
+tqdm
+scikit-learn
+tensorboard
