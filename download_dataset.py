@@ -1,3 +1,6 @@
+# This file was adopted from https://github.com/huggingface/transformers and then modified.
+# Refer to that repository for the copyright notice.
+
 """ Script for downloading GLUE data.
 """
 
